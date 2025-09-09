@@ -1,2 +1,12 @@
 # WinsockNetworking
-C++, WInsock으로 Unreal 프레임워크에서 네트워크 통신 구현한 프로젝트
+C++, WInsock을 이용해 Unreal에서의 네트워크 통신 구현 프로젝트
+
+
+## 이론 
+TCP/IP, Windows System, Concurrency Programming
+
+## 기술 스택
+Winsock(IOCP), C++23(MSVC), Unreal Engine
+
+## 구조
+웹에서 회원가입, 클라이언트에서 웹서버로 로그인 - 채팅 서버 접속, 데디케이티드 서버 연결
